@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../Curso Javascript"
+		},
+		{
+			"path": "../Vue3"
+		},
+		{
+			"path": "../02.Base-de-datos"
+		},
+		{
+			"path": "../Adobe"
+		},
+		{
+			"path": "../Appol"
+		},
+		{
+			"path": "../JAVASCRIPT CURSO"
+		},
+		{
+			"path": "../logo nacional"
+		},
+		{
+			"path": "../FRONT-END_23"
+		},
+		{
+			"path": "../muestra"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Digimon-Mv"
+	}
+}
